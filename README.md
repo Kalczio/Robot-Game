@@ -1,6 +1,6 @@
 # Robot Game
 
-It's just fun game wich I built for my 6 year old son.
+It's just fun game wich I built.
 
 
 ## Lessons Learned
